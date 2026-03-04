@@ -21,6 +21,10 @@ SQL business intelligence, and an interactive Power BI dashboard.
 Due to GitHub file size limitations, the PBIX file is hosted externally.
 🔗 [Download the Power BI Dashboard](https://drive.google.com/file/d/1mupg0Moe8_S1QSrbr-4AEgAXrbgB_hXc/view?usp=sharing)
 
+## Dataset Source
+
+[Olist Brazilian E-Commerce Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ## Tech Stack
 
 - **Python** — Pandas, Scikit-learn, Matplotlib, Seaborn, SQLAlchemy, PyMySQL
@@ -112,12 +116,6 @@ Due to GitHub file size limitations, the PBIX file is hosted externally.
 | 3 | Customer Segmentation & Churn | Segment Donut · Churn Risk Bar · Revenue Bar |
 | 4 | Product & Operational Performance | Delivery Donut · Seller Cities · Payment Bar |
 | 5 | Revenue Forecast & Growth | Area Chart · Historical Line · Projection Table |
-
----
-
-## Dataset Source
-
-[Olist Brazilian E-Commerce Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
 
