@@ -16,22 +16,10 @@ SQL business intelligence, and an interactive Power BI dashboard.
 | Models | RFM Segmentation · K-Means · Random Forest · Linear Regression |
 | Dashboard | 5-page interactive Power BI with live MySQL connection |
 
----
+## Power BI Dashboard
 
-## Project Structure
-```
-├── data/                          # Raw CSV source files
-├── notebooks/
-│   └── 01_data_loading.ipynb      # Full pipeline notebook
-├── sql/
-│   └── e-commerce.sql             # 15 business intelligence queries
-├── dashboard/
-│   └── ecommerce_dashboard.pbix   # Power BI dashboard file
-└── report/
-    └── ECommerce_Analytics_Report_Charan_Reddy.docx
-```
-
----
+Due to GitHub file size limitations, the PBIX file is hosted externally.
+🔗 [Download the Power BI Dashboard](https://drive.google.com/file/d/1mupg0Moe8_S1QSrbr-4AEgAXrbgB_hXc/view?usp=sharing)
 
 ## Tech Stack
 
